@@ -1,4 +1,4 @@
-# Proyecto Huertar
+# Proyecto Ecos
 ## Estado: En Desarrollo
 
 # Stack
@@ -20,7 +20,7 @@
 
 - ### Comandos para iniciar el proyecto
 ```sh
-cd huertar_server
+cd ecos_server
 
 npm i
 
